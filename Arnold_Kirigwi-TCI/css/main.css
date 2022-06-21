@@ -1,0 +1,62 @@
+*{box-sizing: border-box;
+background-color: black;}
+
+.lbl{
+    color:black;
+    background-color: aliceblue;
+}
+.cityform{
+    position:fixed;
+    top:50%;
+    right:40%;
+    border: 2px solid rgb(1, 1, 15);
+  
+}
+.cityform-cont{
+    max-width: 500px;
+    
+    background-color: rgb(199, 199, 199);
+    padding: 10px;
+}
+.cityform-cont input[type=text]:focus{
+    color:white;
+    background-color:rgb(98, 104, 102);
+    outline: none;
+}
+.cityform-cont .btn{
+    background-color: rgb(41, 235, 122);
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    width:100%;
+    margin-bottom: 10px;
+    opacity:0.9;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(240, 230, 230);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(44, 40, 40);
+}
+
+.active {
+  background-color: #1523e2;
+}

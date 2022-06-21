@@ -1,0 +1,15 @@
+					
+				LODUR TASK 1 INTERIEW ACTIVITIES
+
+				
+Date:12/06/2022: 	I worked on creating the database and test data on date 12/06/2022
+			for 3/4hrs.
+			I worked on user input forms, css for cities and addresses on 12/06/2022
+			for 1hrs.
+
+	
+Date: 13/06/2022:	worked for their php scripts on 13/06/2022
+			for 2hrs.
+			worked on xml and json for 3/4hrs.
+
+				
